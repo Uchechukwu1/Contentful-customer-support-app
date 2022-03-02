@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React JS is the programming language of choice, and Chat Engine is a set of APIs and UI Kit specific to chat.
+Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS!
 
 ## Available Scripts
 
